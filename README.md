@@ -102,10 +102,6 @@ sudo hping3 -S --flood <your_kali_ip>
 - Extend detection rules
 
 ---
-
-## 👨‍💻 Author
-Pandurang More
-
 ---
 
 ## 🧠 Key Learning Outcomes
